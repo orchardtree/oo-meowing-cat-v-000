@@ -1,4 +1,4 @@
 ## code your solution here. 
 class Cat 
-  CAT = ""
+  Cat = ""
 end
