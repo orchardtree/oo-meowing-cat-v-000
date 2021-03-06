@@ -1,4 +1,3 @@
 ## code your solution here. 
-class Cat 
-  Cat = ""
+class Cat
 end
